@@ -13,8 +13,7 @@ To contribute to Apollo please send a
 
 ## Authors
 
-Apollo is currently developed by Giorgis Georgakoudis, georgakoudis1@llnl.gov,
-Chad Wood, wood67@llnl.gov, and other
+Apollo is currently developed by Giorgis Georgakoudis (georgakoudis1@llnl.gov) and other
 [contributors](https://github.com/LLNL/apollo/graphs/contributors).
 
 Apollo was originally created by David Beckingsale, david@llnl.gov
